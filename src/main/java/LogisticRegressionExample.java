@@ -6,7 +6,6 @@ import org.apache.spark.ml.feature.OneHotEncoder;
 import org.apache.spark.ml.feature.StringIndexer;
 import org.apache.spark.ml.feature.VectorAssembler;
 import org.apache.spark.ml.param.ParamMap;
-import org.apache.spark.ml.regression.LinearRegressionModel;
 import org.apache.spark.ml.tuning.ParamGridBuilder;
 import org.apache.spark.ml.tuning.TrainValidationSplit;
 import org.apache.spark.ml.tuning.TrainValidationSplitModel;
